@@ -28,28 +28,6 @@ If you want information about what is happening in and around Moebius then it is
 
 See [links](links.en.md).
 
-## Documents
-
-[Game](/dokument/spel.pdf)
-
-[Statutes (in Swedish)](/dokument/stadgar.pdf)
-
-[Working order (in Swedish)](/dokument/arbetsordning.pdf)
-
-[Medals](/dokument/ordensband.pdf)
-
-[Document template](/dokument/mall.zip)
-
-[Want something for the shop?](https://docs.google.com/forms/d/e/1FAIpQLSfx6-tQL_ONTX-kjNsnxzjoMd8MH3prFYbWhi32qUf2_xG_ew/viewform)
-
-[Old exams](exams)
-
-[Songbook](/dokument/Sångbok.pdf)
-
-<!-- <a href="gamla-tentor" target"_blank">Old exams</a> -->
-  <!-- <br> -->
-  <!-- If you want to add an old exam, send the exam to mat-tech@utn.se. Name the file "Course_yymmdd.pdf", if it is only solutions then name it "Course_yymmdd_losn.pdf". If it is the exam and solutions, name the file "Course_yymmdd_mlosn.pdf". -->
-
 ## Contact
 The best way to get in touch with the association is to send an email to the president, however contacting anyone is also possible.
 If you have concerns or feedback about your studies, you can anonymously (or not) Moebius via [this link](https://forms.gle/iuanD1wckwgoKKAp9).

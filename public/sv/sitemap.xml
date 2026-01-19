@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/sv/donera/annan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sv/arkiv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/arkiv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/arkiv/"
+                />
+  </url><url>
     <loc>http://localhost:1313/sv/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -13,6 +27,12 @@
                 hreflang="sv"
                 href="http://localhost:1313/sv/categories/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/sv/donera/danske/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sv/donera/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sv/donera/swedbank/</loc>
   </url><url>
     <loc>http://localhost:1313/sv/links/</loc>
     <xhtml:link
@@ -38,6 +58,10 @@
                 href="http://localhost:1313/sv/exams/"
                 />
   </url><url>
+    <loc>http://localhost:1313/sv/donera/link/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sv/donera/lans/</loc>
+  </url><url>
     <loc>http://localhost:1313/sv/moebius-sol/</loc>
     <xhtml:link
                 rel="alternate"
@@ -62,6 +86,10 @@
                 href="http://localhost:1313/sv/"
                 />
   </url><url>
+    <loc>http://localhost:1313/sv/donera/nordea/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sv/arkiv/styrelser/</loc>
+  </url><url>
     <loc>http://localhost:1313/sv/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -73,5 +101,7 @@
                 hreflang="sv"
                 href="http://localhost:1313/sv/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/sv/arkiv/tidningar/</loc>
   </url>
 </urlset>

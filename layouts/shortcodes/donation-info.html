@@ -1,0 +1,4 @@
+{{ $site := .Site }}
+{{ with $site.GetPage "donera/link" }}
+  {{ .Content }}
+{{ end }}
