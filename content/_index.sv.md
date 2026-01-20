@@ -30,28 +30,6 @@ Vill man ha information om vad det är som sker i och kring Moebius är det bäs
 
 Se [länkar](links.sv.md).
 
-## Dokument
-
-[Spel](/dokument/spel.pdf)
-
-[Stadgar](/dokument/stadgar.pdf)
-
-[Arbetsordning](/dokument/arbetsordning.pdf)
-
-[Ordensband och medaljer](/dokument/ordensband.pdf)
-
-[Dokumentmall](/dokument/mall.zip)
-
-[Önskemål till kiosken](https://docs.google.com/forms/d/e/1FAIpQLSfx6-tQL_ONTX-kjNsnxzjoMd8MH3prFYbWhi32qUf2_xG_ew/viewform)
-
-[Gamla tentor](exams)
-
-[Sångboken](/dokument/Sångbok.pdf)
-
-<!-- <a href="gamla-tentor" target"_blank">Gamla tentor</a> -->
-
-<!-- Om du vill lägga in en tenta, skicka tentan till nvm-tech@utn.se. Namnge tentan "Kurs_ååmmdd.pdf", är det endast är lösningar/lösningsförslag, namnge filen "Kurs_ååmmdd_losn.pdf". Om det är både tentan och lösningar, namnge filen "Kurs_ååmmdd_mlosn.pdf". -->
-
 
 ## Kontakta Möbius
 Bästa sättet att få kontakt med föreningen är att kontakta ordförande, men det går bra att kontakta någon av de andra i styrelsen också.
