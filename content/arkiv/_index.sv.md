@@ -28,3 +28,5 @@ Här hittar du diverse dokument och gamla tentor.
 [Gamla styrelser](arkiv/styrelser)
 
 [Möbius tidning](arkiv/tidningar)
+
+[Loggor](arkiv/loggor)

@@ -2,7 +2,8 @@
 title = "Möbius"
 +++
 
-# Möbius
+![Möbius](/images/moebius.webp)
+<!-- # Möbius -->
 
 Moebius är sektionsföreningen för matematiksektionen (MAT) inom [Uppsala Teknolog- och Naturvetarkår](https://utn.se/en), men alla är välkomna.
  Vi har en lokal i [hus 18](https://link.mazemap.com/ITtb4vV4) (mittenofficersvillan) på campus Ångström.
@@ -11,7 +12,7 @@ Här kan du hitta andra likasinnade eller oliksinnade, som gärna spelar spel, k
 
 ## Vad är en sektion och en sektionsförening?
 
-Uppsala teknolog- och naturvetarkår (UTN) delar upp alla studenter i en av 20 olika lådor, så kallade sektioner. Det finns sektioner för ämneslärare, teknisk fysik och matematik bland flera andra. Matematikernas sektion heter MAT. Alla sektioner har en tillhörande sektionsförening som representerar studenterna i sektionen. Möbius är matematikernas sektionsförening. En sektionsförening har i uppdrag att bland annat studiebevaka för studenterna.
+Uppsala teknolog- och naturvetarkår (UTN) delar upp alla studenter i en av 20 olika lådor, så kallade sektioner. Det finns sektioner för ämneslärare, teknisk fysik och matematik bland flera andra. Matematikernas sektion heter MAT. Alla sektioner har en tillhörande sektionsförening som representerar studenterna i sektionen. Möbius är matematikernas sektionsförening. En sektionsförening har i uppdrag att bland annat studiebevaka för studenterna. Sektionerna har också sektionsklädsel, de flesta andra sektioner har overaller eller labrockar i olika färger. De flesta matematiker väljer att ha en svart morgonrock som sektionsklädsel, men andra plagg förekommer. Moebius säljer svarta morgonrockar med broderad Möbiuslogga på ryggen.
 
 ## Vad är studiebevakning?
 

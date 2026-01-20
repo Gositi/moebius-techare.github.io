@@ -2,7 +2,8 @@
 title = "Möbius"
 +++
 
-# Möbius
+![Möbius](/images/moebius.webp)
+<!-- # Möbius -->
 Moebius is the section association for the mathematics section (MAT) within [UTN](https://utn.se/en).
 Möbius is the section association that focuses on students of mathematics. However, everyone is welcome to join! We have a room in [house 18](https://link.mazemap.com/ITtb4vV4) (the middle house of the red houses outside Ångström).
 
@@ -10,7 +11,7 @@ Here you can find likeminded or differentminded folk, who enjoys playing games, 
 
 ## What is a section association?
 
-The Uppsala Union of Science and Technology (UTN) divides all students into one of 20 different boxes, called sections. There are sections for subject teachers, technical physics and mathematics among several others. The mathematics section is called MAT. All sections have an associated section association that represents the students in the section. Möbius is the mathematicians' section association. A section association's task is to, among other things, monitor studies for the students.
+The Uppsala Union of Science and Technology (UTN) divides all students into one of 20 different boxes, called sections. There are sections for subject teachers, technical physics and mathematics among several others. The mathematics section is called MAT. All sections have an associated section association that represents the students in the section. Möbius is the mathematicians' section association. A section association's task is to, among other things, monitor studies for the students. The sections also have a section outfit, many other sections have overalls or lab coats. Most mathematicians have a black bathrobe. Möbius sells black bathrobes with a logo on the back.
 
 ## What is student monitoring?
 
