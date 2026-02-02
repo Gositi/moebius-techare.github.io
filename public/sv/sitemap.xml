@@ -2,108 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:34213/sv/donera/annan/</loc>
+    <loc>http://localhost:1313/sv/donera/annan/</loc>
   </url><url>
-    <loc>http://localhost:34213/sv/arkiv/</loc>
+    <loc>http://localhost:1313/sv/arkiv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:34213/arkiv/"
+                href="http://localhost:1313/arkiv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:34213/sv/arkiv/"
+                href="http://localhost:1313/sv/arkiv/"
                 />
   </url><url>
-    <loc>http://localhost:34213/sv/categories/</loc>
+    <loc>http://localhost:1313/sv/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:34213/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:34213/sv/categories/"
+                href="http://localhost:1313/sv/categories/"
                 />
   </url><url>
-    <loc>http://localhost:34213/sv/donera/danske/</loc>
+    <loc>http://localhost:1313/sv/donera/danske/</loc>
   </url><url>
-    <loc>http://localhost:34213/sv/donera/</loc>
+    <loc>http://localhost:1313/sv/donera/</loc>
   </url><url>
-    <loc>http://localhost:34213/sv/donera/swedbank/</loc>
+    <loc>http://localhost:1313/sv/donera/swedbank/</loc>
   </url><url>
-    <loc>http://localhost:34213/sv/links/</loc>
+    <loc>http://localhost:1313/sv/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:34213/links/"
+                href="http://localhost:1313/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:34213/sv/links/"
+                href="http://localhost:1313/sv/links/"
                 />
   </url><url>
-    <loc>http://localhost:34213/sv/exams/</loc>
+    <loc>http://localhost:1313/sv/exams/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:34213/exams/"
+                href="http://localhost:1313/exams/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:34213/sv/exams/"
+                href="http://localhost:1313/sv/exams/"
                 />
   </url><url>
-    <loc>http://localhost:34213/sv/donera/link/</loc>
+    <loc>http://localhost:1313/sv/donera/handelsbanken/</loc>
   </url><url>
-    <loc>http://localhost:34213/sv/arkiv/loggor/</loc>
+    <loc>http://localhost:1313/sv/donera/link/</loc>
   </url><url>
-    <loc>http://localhost:34213/sv/donera/lans/</loc>
+    <loc>http://localhost:1313/sv/arkiv/loggor/</loc>
   </url><url>
-    <loc>http://localhost:34213/sv/moebius-sol/</loc>
+    <loc>http://localhost:1313/sv/donera/lans/</loc>
+  </url><url>
+    <loc>http://localhost:1313/sv/moebius-sol/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:34213/moebius-sol/"
+                href="http://localhost:1313/moebius-sol/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:34213/sv/moebius-sol/"
+                href="http://localhost:1313/sv/moebius-sol/"
                 />
   </url><url>
-    <loc>http://localhost:34213/sv/</loc>
+    <loc>http://localhost:1313/sv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:34213/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:34213/sv/"
+                href="http://localhost:1313/sv/"
                 />
   </url><url>
-    <loc>http://localhost:34213/sv/donera/nordea/</loc>
+    <loc>http://localhost:1313/sv/donera/nordea/</loc>
   </url><url>
-    <loc>http://localhost:34213/sv/arkiv/styrelser/</loc>
+    <loc>http://localhost:1313/sv/arkiv/styrelser/</loc>
   </url><url>
-    <loc>http://localhost:34213/sv/tags/</loc>
+    <loc>http://localhost:1313/sv/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:34213/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="sv"
-                href="http://localhost:34213/sv/tags/"
+                href="http://localhost:1313/sv/tags/"
                 />
   </url><url>
-    <loc>http://localhost:34213/sv/arkiv/tidningar/</loc>
+    <loc>http://localhost:1313/sv/arkiv/tidningar/</loc>
   </url>
 </urlset>

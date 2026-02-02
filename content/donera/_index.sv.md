@@ -8,6 +8,7 @@ Du kan donera pengar till Möbius på flera olika sätt genom olika banker. Väl
 - [Donera via Danske Bank](danske.sv.md)
 - [Donera via Nordea](nordea.sv.md)
 - [Donera via Länsförsäkringar](lans.sv.md)
+- [Donera via Handelsbanken](handelsbanken.sv.md)
 - [Donera via annan bank](annan.sv.md)
 
 {{< donation-info >}}

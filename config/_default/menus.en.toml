@@ -16,3 +16,8 @@
   name = 'Archive'
   pageRef = '/arkiv'
   weight = 60
+
+[[main]]
+  name = 'Donate'
+  url = '/sv/donera'
+  weight = 70
