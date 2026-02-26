@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/sv/donera/annan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/donera/annan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/donera/annan/"
+                />
   </url><url>
     <loc>http://localhost:1313/sv/arkiv/</loc>
     <xhtml:link
@@ -29,10 +39,40 @@
                 />
   </url><url>
     <loc>http://localhost:1313/sv/donera/danske/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/donera/danske/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/donera/danske/"
+                />
   </url><url>
     <loc>http://localhost:1313/sv/donera/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/donera/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/donera/"
+                />
   </url><url>
     <loc>http://localhost:1313/sv/donera/swedbank/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/donera/swedbank/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/donera/swedbank/"
+                />
   </url><url>
     <loc>http://localhost:1313/sv/links/</loc>
     <xhtml:link
@@ -59,12 +99,42 @@
                 />
   </url><url>
     <loc>http://localhost:1313/sv/donera/handelsbanken/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/donera/handelsbanken/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/donera/handelsbanken/"
+                />
   </url><url>
     <loc>http://localhost:1313/sv/donera/link/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/donera/link/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/donera/link/"
+                />
   </url><url>
     <loc>http://localhost:1313/sv/arkiv/loggor/</loc>
   </url><url>
     <loc>http://localhost:1313/sv/donera/lans/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/donera/lans/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/donera/lans/"
+                />
   </url><url>
     <loc>http://localhost:1313/sv/moebius-sol/</loc>
     <xhtml:link
@@ -91,6 +161,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/sv/donera/nordea/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/donera/nordea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="sv"
+                href="http://localhost:1313/sv/donera/nordea/"
+                />
   </url><url>
     <loc>http://localhost:1313/sv/arkiv/styrelser/</loc>
   </url><url>

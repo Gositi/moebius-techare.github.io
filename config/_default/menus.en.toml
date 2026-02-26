@@ -19,5 +19,5 @@
 
 [[main]]
   name = 'Donate'
-  url = '/sv/donera'
+  pageRef = '/donera'
   weight = 70
