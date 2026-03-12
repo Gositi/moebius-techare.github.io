@@ -50,7 +50,7 @@ Styrelsen har en mandatperiod på ett år och väljs på vårmötet i mars eller
 | Möbius Tech            | | mat-tech@utn.se        |
 | Spårtansvarig            | Lukas Rydbom | mat-idrott@utn.se        |
 | Arbetsmarknadsanvarig             | Henry Sumpter  | mat-arb@utn.se        |
-| Internationellt ansvarig              | Vincent Vilanueva  | mat-int@utn.se        |
+| Internationellt ansvarig              | Vincent Villanueva  | mat-int@utn.se        |
 
 ## Representanter som tillsätts
 

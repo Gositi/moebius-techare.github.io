@@ -48,7 +48,7 @@ The board sits one year at a time and are elected on the spring meeting in March
 | Möbius Tech            | | mat-tech@utn.se        |
 | Master of Sport            | Lukas Rydbom | mat-idrott@utn.se        |
 |  Master of Labor Market             | Henry Sumpter  | mat-arb@utn.se        |
-|  Master of Internationality              | Vincent Vilanueva  | mat-int@utn.se        |
+|  Master of Internationality              | Vincent Villanueva  | mat-int@utn.se        |
 
 
 
