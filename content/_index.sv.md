@@ -38,18 +38,18 @@ Styrelsen har en mandatperiod på ett år och väljs på vårmötet i mars eller
 
 |Styrelsen                        ||                        |
 |------------------------|-|------------------------|
-| Ordförande      | Minoo Sjögren | mat-ordf@utn.se        |
-| Vice Ordförande | Frida Nordahl | mat-vice@utn.se        |
-| Kassör          | 	Oskar Lutterbeck | mat-kassor@utn.se      |
-| Sekreterare     | 	Ellen Pelander | mat-sekreterare@utn.se |
-| Klubbmästare   | Olle Nilsson | mat-klubb@utn.se       |
-| Lokalansvarig  | Simon Lindblom | mat-lokal@utn.se       |
+| Ordförande      | Ebba Brunvall | mat-ordf@utn.se        |
+| Vice Ordförande | Tea Rännar | mat-vice@utn.se        |
+| Kassör          | 	Emiliano Lievano Parmstrand | mat-kassor@utn.se      |
+| Sekreterare     | 	Axel Lönnstedt | mat-sekreterare@utn.se |
+| Klubbmästare   | Vincent Villanueva | mat-klubb@utn.se       |
+| Lokalansvarig  | Signe Löfquist | mat-lokal@utn.se       |
 | Utbildningsansvarig  | Ludvig Kettis Lindblad |	mat-utb@utn.se  |
-| Studiesocialt ansvarig  | Aamos Ranta | mat-soc@utn.se       |
+| Studiesocialt ansvarig  |  Minoo Sjögren | mat-soc@utn.se       |
 |**Andra poster**                        ||                        |
-| Möbius Tech            | | mat-tech@utn.se        |
+| Möbius Tech            | Björn Bollen | mat-tech@utn.se        |
 | Spårtansvarig            | Lukas Rydbom | mat-idrott@utn.se        |
-| Arbetsmarknadsanvarig             | Henry Sumpter  | mat-arb@utn.se        |
+| Arbetsmarknadsanvarig             | Oskar Lutterbeck  | mat-arb@utn.se        |
 | Internationellt ansvarig              | Vincent Villanueva  | mat-int@utn.se        |
 
 ## Representanter som tillsätts

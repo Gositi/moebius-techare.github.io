@@ -11,6 +11,7 @@ Då Möbius och Studierådet NVM som det på senare tid hette slogs ihop under v
 
 | Mandatperiod | Ordförande Möbius|
 |-------|------------------|
+| 26/27 | Ebba Brunvall    |
 | 25/26 | Minoo Sjögren    |
 | 24/25 | Emily Tse        |
 | 23/24 | Gustaf Holmqvist |
